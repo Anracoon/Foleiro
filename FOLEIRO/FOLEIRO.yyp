@@ -36,6 +36,8 @@
   "name":"FOLEIRO",
   "resources":[
     {"id":{"name":"ftMenu","path":"fonts/ftMenu/ftMenu.yy",},},
+    {"id":{"name":"Obj_Foleiro","path":"objects/Obj_Foleiro/Obj_Foleiro.yy",},},
+    {"id":{"name":"Obj_parede","path":"objects/Obj_parede/Obj_parede.yy",},},
     {"id":{"name":"objMenu","path":"objects/objMenu/objMenu.yy",},},
     {"id":{"name":"credito","path":"rooms/credito/credito.yy",},},
     {"id":{"name":"mapa","path":"rooms/mapa/mapa.yy",},},
@@ -45,6 +47,8 @@
     {"id":{"name":"SalaNorte","path":"rooms/SalaNorte/SalaNorte.yy",},},
     {"id":{"name":"SalaSudeste","path":"rooms/SalaSudeste/SalaSudeste.yy",},},
     {"id":{"name":"SalaSul","path":"rooms/SalaSul/SalaSul.yy",},},
+    {"id":{"name":"Spr_Parede","path":"sprites/Spr_Parede/Spr_Parede.yy",},},
+    {"id":{"name":"Spt_foleiro","path":"sprites/Spt_foleiro/Spt_foleiro.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
