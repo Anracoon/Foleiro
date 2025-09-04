@@ -48,6 +48,7 @@
     {"id":{"name":"SalaSudeste","path":"rooms/SalaSudeste/SalaSudeste.yy",},},
     {"id":{"name":"SalaSul","path":"rooms/SalaSul/SalaSul.yy",},},
     {"id":{"name":"Spr_Parede","path":"sprites/Spr_Parede/Spr_Parede.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Spt_foleiro","path":"sprites/Spt_foleiro/Spt_foleiro.yy",},},
   ],
   "resourceType":"GMProject",
