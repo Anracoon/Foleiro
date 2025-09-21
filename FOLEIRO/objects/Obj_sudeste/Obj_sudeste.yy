@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_foleiro",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_sudeste",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_foleiro",
+  "name":"Obj_sudeste",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"regioes",
+    "path":"folders/Objetos/regioes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_foleiro",
-    "path":"sprites/Spr_foleiro/Spr_foleiro.yy",
+    "name":"Spr_sudeste",
+    "path":"sprites/Spr_sudeste/Spr_sudeste.yy",
   },
   "spriteMaskId":null,
   "visible":true,
