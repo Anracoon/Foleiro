@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_parede",
+  "%Name":"Obj_cenOeste",
   "eventList":[],
   "managed":true,
-  "name":"Obj_parede",
+  "name":"Obj_cenOeste",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"regioes",
+    "path":"folders/Objetos/regioes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Parede",
-    "path":"sprites/Spr_Parede/Spr_Parede.yy",
+    "name":"Spr_cenOeste",
+    "path":"sprites/Spr_cenOeste/Spr_cenOeste.yy",
   },
   "spriteMaskId":null,
   "visible":false,

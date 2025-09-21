@@ -1,3 +1,5 @@
+//MOVIMENTAÇÕES
+
 var tecla_cima = keyboard_check(vk_up)
 var tecla_baixo= keyboard_check(vk_down)
 var tecla_esquerda = keyboard_check(vk_left)
@@ -20,7 +22,7 @@ x = x + sign(velh)
  velh = 0
 }
 
-y+= velh
+x+= velh
 
 if(place_meeting(x, y+velv,Obj_parede))
 {
@@ -32,3 +34,40 @@ velv = 0
 }
 
 y+= velv
+
+//IR PARA REGIÔES
+
+//SUL
+
+if(place_meeting(x+velh,y,obj_sul))
+{
+	room_goto(SalaSul)
+}
+
+//SUDESTE
+
+if(place_meeting(x+velh,y,Obj_sudeste))
+{
+	room_goto(SalaSudeste)
+}
+
+//CENTRO OESTE
+
+if(place_meeting(x+velh,y,Obj_cenOeste))
+{
+	room_goto(SalaCentroOeste)
+}
+
+//NORDESTE
+
+if(place_meeting(x+velh,y,Obj_nordeste))
+{
+	room_goto(SalaNordeste)
+}
+
+//NORTE
+
+if(place_meeting(x+velh,y,Obj_norte))
+{
+	room_goto(SalaNorte)
+}

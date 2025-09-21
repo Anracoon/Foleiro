@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_parede",
+  "%Name":"Obj_nordeste",
   "eventList":[],
   "managed":true,
-  "name":"Obj_parede",
+  "name":"Obj_nordeste",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"regioes",
+    "path":"folders/Objetos/regioes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Parede",
-    "path":"sprites/Spr_Parede/Spr_Parede.yy",
+    "name":"Spr_nordeste",
+    "path":"sprites/Spr_nordeste/Spr_nordeste.yy",
   },
   "spriteMaskId":null,
   "visible":false,

@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_parede",
+  "%Name":"Obj_norte",
   "eventList":[],
   "managed":true,
-  "name":"Obj_parede",
+  "name":"Obj_norte",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"regioes",
+    "path":"folders/Objetos/regioes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Parede",
-    "path":"sprites/Spr_Parede/Spr_Parede.yy",
+    "name":"Spr_norte",
+    "path":"sprites/Spr_norte/Spr_norte.yy",
   },
   "spriteMaskId":null,
   "visible":false,
