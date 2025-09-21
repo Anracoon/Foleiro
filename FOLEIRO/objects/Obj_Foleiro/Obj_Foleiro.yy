@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_foleiro",
+  "%Name":"Obj_Foleiro",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_foleiro",
+  "name":"Obj_Foleiro",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_foleiro",
-    "path":"sprites/Spr_foleiro/Spr_foleiro.yy",
+    "name":"Spt_foleiro",
+    "path":"sprites/Spt_foleiro/Spt_foleiro.yy",
   },
   "spriteMaskId":null,
   "visible":true,
