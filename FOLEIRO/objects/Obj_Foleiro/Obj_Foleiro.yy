@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spt_foleiro",
-    "path":"sprites/Spt_foleiro/Spt_foleiro.yy",
+    "name":"Spt_foleiro_esquerda",
+    "path":"sprites/Spt_foleiro_esquerda/Spt_foleiro_esquerda.yy",
   },
   "spriteMaskId":null,
   "visible":true,

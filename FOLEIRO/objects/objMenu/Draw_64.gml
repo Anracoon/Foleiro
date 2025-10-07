@@ -13,11 +13,11 @@ for(var i = 0; i < op_max; i++)
 	
 	if(index == i)
 	{
-	draw_set_color(c_yellow);
+	draw_set_color(c_white);
 	}
 	else
 	{
-		draw_set_color(c_white);
+		draw_set_color(c_black);
 	}
 	
 	draw_text(x1,y1 + (dist *i), opcoes[i]);

@@ -7,6 +7,36 @@ var tecla_direita = keyboard_check(vk_right)
 
 var tecla = tecla_direita - tecla_esquerda != 0 || tecla_baixo - tecla_cima != 0
 
+
+//sprite
+if tecla_direita{
+	direc = 0;
+	sprite_index = Spt_foleiro_andando_direita;
+} else if tecla_esquerda{
+	direc = 1;
+	sprite_index = Spt_foleiro_andando_esquerda;
+} else if tecla_cima{
+	if direc == 0{
+		sprite_index = Spt_foleiro_andando_direita;
+	} else if direc == 1{
+		sprite_index = Spt_foleiro_andando_esquerda
+	}
+} else if tecla_baixo{
+	if direc == 0{
+		sprite_index = Spt_foleiro_andando_direita;
+	} else if direc == 1{
+		sprite_index = Spt_foleiro_andando_esquerda
+	}
+}else{
+	if direc == 0{
+		sprite_index = Spt_foleiro_direita;
+	} else if direc == 1{
+		sprite_index = Spt_foleiro_esquerda
+	}
+}
+	
+
+
 dir = point_direction(0,0,tecla_direita - tecla_esquerda, tecla_baixo - tecla_cima)
 
 velh = lengthdir_x(velc * tecla,dir)
