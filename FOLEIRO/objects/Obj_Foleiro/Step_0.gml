@@ -101,3 +101,11 @@ if(place_meeting(x+velh,y,Obj_norte))
 {
 	room_goto(SalaNorte)
 }
+
+
+//IR PARA O MAPA
+
+if(place_meeting(x+velh,y,Obj_mapa))
+{
+	room_goto(mapa)
+}
