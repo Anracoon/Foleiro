@@ -33,6 +33,7 @@
     {"name":"inst_7CD93CD7","path":"rooms/SalaSul/SalaSul.yy",},
     {"name":"inst_23EC0C00","path":"rooms/SalaSul/SalaSul.yy",},
     {"name":"inst_50C70EC","path":"rooms/SalaSul/SalaSul.yy",},
+    {"name":"inst_51848C2F","path":"rooms/SalaSul/SalaSul.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -64,6 +65,7 @@
         {"$GMRInstance":"v2","%Name":"inst_7CD93CD7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7CD93CD7","objectId":{"name":"Obj_parede","path":"objects/Obj_parede/Obj_parede.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":2.5,"x":1376.0,"y":352.0,},
         {"$GMRInstance":"v2","%Name":"inst_23EC0C00","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_23EC0C00","objectId":{"name":"Obj_parede","path":"objects/Obj_parede/Obj_parede.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.5,"scaleY":1.0,"x":336.0,"y":800.0,},
         {"$GMRInstance":"v2","%Name":"inst_50C70EC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_50C70EC","objectId":{"name":"Obj_mapa","path":"objects/Obj_mapa/Obj_mapa.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":1.0,"x":640.0,"y":768.0,},
+        {"$GMRInstance":"v2","%Name":"inst_51848C2F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_51848C2F","objectId":{"name":"obj_chave_centro","path":"objects/obj_chave_centro/obj_chave_centro.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":224.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sulmp1","path":"sprites/sulmp1/sulmp1.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

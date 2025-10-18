@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cadeado_centro",
+  "%Name":"Obj_control",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cadeado_centro",
+  "name":"Obj_control",
   "overriddenProperties":[],
   "parent":{
-    "name":"cadeados",
-    "path":"folders/Objetos/cadeados.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spt_cadeado",
-    "path":"sprites/spt_cadeado/spt_cadeado.yy",
+    "name":"Spr_control",
+    "path":"sprites/Spr_control/Spr_control.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

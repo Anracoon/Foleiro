@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_chave_centro",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Foleiro","path":"objects/Obj_Foleiro/Obj_Foleiro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_chave_centro",
   "overriddenProperties":[],
@@ -9,10 +11,7 @@
     "name":"chavesss",
     "path":"folders/Objetos/chavesss.yy",
   },
-  "parentObjectId":{
-    "name":"obj_chave_norte",
-    "path":"objects/obj_chave_norte/obj_chave_norte.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

@@ -65,45 +65,9 @@ velv = 0
 
 y+= velv
 
-//IR PARA REGIÔES
-
-//SUL
-
-if(place_meeting(x+velh,y,obj_sul))
-{
-	room_goto(SalaSul)
-}
-
-//SUDESTE
-
-if(place_meeting(x+velh,y,Obj_sudeste))
-{
-	room_goto(SalaSudeste)
-}
-
-//CENTRO OESTE
-
-if(place_meeting(x+velh,y,Obj_cenOeste))
-{
-	room_goto(SalaCentroOeste)
-}
-
-//NORDESTE
-
-if(place_meeting(x+velh,y,Obj_nordeste))
-{
-	room_goto(SalaNordeste)
-}
-
-//NORTE
-
-if(place_meeting(x+velh,y,Obj_norte))
-{
-	room_goto(SalaNorte)
-}
 
 
-//IR PARA O MAPA
+//---------------IR PARA O MAPA---------------------------
 
 if(place_meeting(x+velh,y,Obj_mapa))
 {
