@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"Obj_mapa",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":13,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Obj_mapa",
   "overriddenProperties":[],
@@ -32,5 +35,5 @@
     "path":"sprites/spt_mapas/spt_mapas.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
