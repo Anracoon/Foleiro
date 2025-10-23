@@ -64,6 +64,8 @@
     {"id":{"name":"SalaNorte","path":"rooms/SalaNorte/SalaNorte.yy",},},
     {"id":{"name":"SalaSudeste","path":"rooms/SalaSudeste/SalaSudeste.yy",},},
     {"id":{"name":"SalaSul","path":"rooms/SalaSul/SalaSul.yy",},},
+    {"id":{"name":"croba","path":"sprites/croba/croba.yy",},},
+    {"id":{"name":"croba2","path":"sprites/croba2/croba2.yy",},},
     {"id":{"name":"mapinha","path":"sprites/mapinha/mapinha.yy",},},
     {"id":{"name":"menuzinho","path":"sprites/menuzinho/menuzinho.yy",},},
     {"id":{"name":"Spr_cenOeste","path":"sprites/Spr_cenOeste/Spr_cenOeste.yy",},},
