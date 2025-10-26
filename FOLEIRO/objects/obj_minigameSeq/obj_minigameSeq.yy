@@ -1,19 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_control",
+  "%Name":"obj_minigameSeq",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Foleiro","path":"objects/Obj_Foleiro/Obj_Foleiro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_control",
+  "name":"obj_minigameSeq",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -31,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_control",
-    "path":"sprites/Spr_control/Spr_control.yy",
+    "name":"Spt_minigame",
+    "path":"sprites/Spt_minigame/Spt_minigame.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
