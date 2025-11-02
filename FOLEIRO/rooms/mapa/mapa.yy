@@ -21,7 +21,6 @@
     {"name":"inst_77496184","path":"rooms/mapa/mapa.yy",},
     {"name":"inst_6C31C8BA","path":"rooms/mapa/mapa.yy",},
     {"name":"inst_6E172957","path":"rooms/mapa/mapa.yy",},
-    {"name":"inst_35818B29","path":"rooms/mapa/mapa.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -41,7 +40,6 @@
         {"$GMRInstance":"v2","%Name":"inst_77496184","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_77496184","objectId":{"name":"obj_cadeado_nordeste","path":"objects/obj_cadeado_nordeste/obj_cadeado_nordeste.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.4918033,"scaleY":1.375,"x":840.0,"y":120.0,},
         {"$GMRInstance":"v2","%Name":"inst_6C31C8BA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6C31C8BA","objectId":{"name":"obj_cadeado_centro","path":"objects/obj_cadeado_centro/obj_cadeado_centro.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.3847857,"scaleY":1.375,"x":566.0,"y":450.0,},
         {"$GMRInstance":"v2","%Name":"inst_6E172957","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6E172957","objectId":{"name":"Obj_mapa","path":"objects/Obj_mapa/Obj_mapa.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":931.0,"y":593.0,},
-        {"$GMRInstance":"v2","%Name":"inst_35818B29","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_35818B29","objectId":{"name":"obj_minigameSeq","path":"objects/obj_minigameSeq/obj_minigameSeq.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1067.0,"y":457.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"mapinha","path":"sprites/mapinha/mapinha.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
