@@ -1,5 +1,4 @@
 //MOVIMENTAÇÕES
-
 var tecla_cima = keyboard_check(vk_up)
 var tecla_baixo= keyboard_check(vk_down)
 var tecla_esquerda = keyboard_check(vk_left)
@@ -35,8 +34,6 @@ if tecla_direita{
 	}
 }
 	
-
-
 dir = point_direction(0,0,tecla_direita - tecla_esquerda, tecla_baixo - tecla_cima)
 
 velh = lengthdir_x(velc * tecla,dir)
