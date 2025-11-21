@@ -1,0 +1,1 @@
+Obj_teste.visible = 0;

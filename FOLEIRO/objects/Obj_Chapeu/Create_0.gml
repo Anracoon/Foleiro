@@ -1,0 +1,1 @@
+Obj_Chapeu.visible = 100;

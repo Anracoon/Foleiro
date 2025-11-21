@@ -1,0 +1,1 @@
+Obj_dinamite1.visible = 0;

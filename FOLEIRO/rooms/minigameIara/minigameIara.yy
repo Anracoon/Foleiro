@@ -6,7 +6,6 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_32A803D9","path":"rooms/minigameIara/minigameIara.yy",},
     {"name":"inst_765718A9","path":"rooms/minigameIara/minigameIara.yy",},
     {"name":"inst_35C9025C","path":"rooms/minigameIara/minigameIara.yy",},
     {"name":"inst_330FA8D0","path":"rooms/minigameIara/minigameIara.yy",},
@@ -16,7 +15,6 @@
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v2","%Name":"inst_32A803D9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_32A803D9","objectId":{"name":"Obj_Foleiro","path":"objects/Obj_Foleiro/Obj_Foleiro.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":768.0,"y":128.0,},
         {"$GMRInstance":"v2","%Name":"inst_765718A9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_765718A9","objectId":{"name":"Obj_pote","path":"objects/Obj_pote/Obj_pote.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":672.0,"y":256.0,},
         {"$GMRInstance":"v2","%Name":"inst_35C9025C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_35C9025C","objectId":{"name":"Obj_IngredienteUm","path":"objects/Obj_IngredienteUm/Obj_IngredienteUm.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":480.0,"y":96.0,},
         {"$GMRInstance":"v2","%Name":"inst_330FA8D0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_330FA8D0","objectId":{"name":"Obj_ingredienteDois","path":"objects/Obj_ingredienteDois/Obj_ingredienteDois.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":480.0,"y":256.0,},
