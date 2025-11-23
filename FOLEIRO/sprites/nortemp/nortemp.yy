@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"nortemp",
   "bboxMode":0,
   "bbox_bottom":1335,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"53dc2ced-53cc-4729-951d-8a928d8f0e61","name":"53dc2ced-53cc-4729-951d-8a928d8f0e61","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"53dc2ced-53cc-4729-951d-8a928d8f0e61","name":"53dc2ced-53cc-4729-951d-8a928d8f0e61","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

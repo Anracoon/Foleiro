@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spt_Curupira",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2da4cd04-dc88-4d93-86dd-233c48ab7630","name":"2da4cd04-dc88-4d93-86dd-233c48ab7630","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2da4cd04-dc88-4d93-86dd-233c48ab7630","name":"2da4cd04-dc88-4d93-86dd-233c48ab7630","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

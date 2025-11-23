@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"mapinha",
   "bboxMode":0,
   "bbox_bottom":767,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a8a6dbe6-948a-47b0-b6b1-22bb3dc26445","name":"a8a6dbe6-948a-47b0-b6b1-22bb3dc26445","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a8a6dbe6-948a-47b0-b6b1-22bb3dc26445","name":"a8a6dbe6-948a-47b0-b6b1-22bb3dc26445","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

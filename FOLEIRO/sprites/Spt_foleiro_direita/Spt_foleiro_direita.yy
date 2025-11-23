@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spt_foleiro_direita",
   "bboxMode":2,
   "bbox_bottom":56,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"464513fd-831a-49ac-a1f2-cbb9c7d41a02","name":"464513fd-831a-49ac-a1f2-cbb9c7d41a02","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"464513fd-831a-49ac-a1f2-cbb9c7d41a02","name":"464513fd-831a-49ac-a1f2-cbb9c7d41a02","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

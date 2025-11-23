@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_poteIngrUm",
   "bboxMode":0,
   "bbox_bottom":55,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"319deda2-e99f-4ffc-b211-8dece2cc0d21","name":"319deda2-e99f-4ffc-b211-8dece2cc0d21","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"319deda2-e99f-4ffc-b211-8dece2cc0d21","name":"319deda2-e99f-4ffc-b211-8dece2cc0d21","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

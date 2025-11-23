@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sudestemp",
   "bboxMode":0,
   "bbox_bottom":1335,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"176ba6d2-0bfd-4b42-bee1-bd1df1d185b4","name":"176ba6d2-0bfd-4b42-bee1-bd1df1d185b4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"176ba6d2-0bfd-4b42-bee1-bd1df1d185b4","name":"176ba6d2-0bfd-4b42-bee1-bd1df1d185b4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_nordeste",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8aea1a4f-28c5-4176-bd65-6244cc5c046e","name":"8aea1a4f-28c5-4176-bd65-6244cc5c046e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8aea1a4f-28c5-4176-bd65-6244cc5c046e","name":"8aea1a4f-28c5-4176-bd65-6244cc5c046e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

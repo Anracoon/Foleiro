@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spt_dinamite2",
   "bboxMode":0,
   "bbox_bottom":35,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"fb56f1fe-b2dd-487f-93ef-5374ba216d58","name":"fb56f1fe-b2dd-487f-93ef-5374ba216d58","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fb56f1fe-b2dd-487f-93ef-5374ba216d58","name":"fb56f1fe-b2dd-487f-93ef-5374ba216d58","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

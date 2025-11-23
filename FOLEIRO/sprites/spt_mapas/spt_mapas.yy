@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spt_mapas",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"6ff52ebb-eb5e-472f-a598-f4f3d94a1847","name":"6ff52ebb-eb5e-472f-a598-f4f3d94a1847","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"6ff52ebb-eb5e-472f-a598-f4f3d94a1847","name":"6ff52ebb-eb5e-472f-a598-f4f3d94a1847","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spt_cadeado",
   "bboxMode":0,
   "bbox_bottom":79,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e50aee13-1c7c-4a7c-8c6a-d1ca9d64829d","name":"e50aee13-1c7c-4a7c-8c6a-d1ca9d64829d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e50aee13-1c7c-4a7c-8c6a-d1ca9d64829d","name":"e50aee13-1c7c-4a7c-8c6a-d1ca9d64829d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

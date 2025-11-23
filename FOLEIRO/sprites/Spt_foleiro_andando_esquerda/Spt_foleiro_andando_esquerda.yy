@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spt_foleiro_andando_esquerda",
   "bboxMode":2,
   "bbox_bottom":56,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"4569e51a-d74f-405d-ada9-2c6ccea9ed8b","name":"4569e51a-d74f-405d-ada9-2c6ccea9ed8b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"c7ded6f8-6aaf-4048-8da2-4d8fe291f2c6","name":"c7ded6f8-6aaf-4048-8da2-4d8fe291f2c6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4569e51a-d74f-405d-ada9-2c6ccea9ed8b","name":"4569e51a-d74f-405d-ada9-2c6ccea9ed8b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c7ded6f8-6aaf-4048-8da2-4d8fe291f2c6","name":"c7ded6f8-6aaf-4048-8da2-4d8fe291f2c6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

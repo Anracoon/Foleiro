@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spt_chapeu",
   "bboxMode":0,
   "bbox_bottom":52,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e0ef4a26-4ab4-4117-9c8d-8dc81a453d45","name":"e0ef4a26-4ab4-4117-9c8d-8dc81a453d45","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e0ef4a26-4ab4-4117-9c8d-8dc81a453d45","name":"e0ef4a26-4ab4-4117-9c8d-8dc81a453d45","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

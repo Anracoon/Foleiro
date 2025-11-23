@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spt_Boto",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"7b8c5ef7-92fe-441b-8d61-46b53ee1bcc0","name":"7b8c5ef7-92fe-441b-8d61-46b53ee1bcc0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"7b8c5ef7-92fe-441b-8d61-46b53ee1bcc0","name":"7b8c5ef7-92fe-441b-8d61-46b53ee1bcc0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

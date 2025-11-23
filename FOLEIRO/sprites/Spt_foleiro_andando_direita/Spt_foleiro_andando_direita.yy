@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spt_foleiro_andando_direita",
   "bboxMode":2,
   "bbox_bottom":56,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"c498082c-69ec-4098-ab81-104bc555d64c","name":"c498082c-69ec-4098-ab81-104bc555d64c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"8a062e6e-ea56-4369-83f8-8036654a802a","name":"8a062e6e-ea56-4369-83f8-8036654a802a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c498082c-69ec-4098-ab81-104bc555d64c","name":"c498082c-69ec-4098-ab81-104bc555d64c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8a062e6e-ea56-4369-83f8-8036654a802a","name":"8a062e6e-ea56-4369-83f8-8036654a802a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

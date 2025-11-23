@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"croba",
   "bboxMode":0,
   "bbox_bottom":797,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"bb184b88-4490-462a-8a66-306e6f6d9b30","name":"bb184b88-4490-462a-8a66-306e6f6d9b30","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"bb184b88-4490-462a-8a66-306e6f6d9b30","name":"bb184b88-4490-462a-8a66-306e6f6d9b30","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

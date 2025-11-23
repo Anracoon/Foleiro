@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_IngredienteTres",
   "bboxMode":0,
   "bbox_bottom":47,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ae21e850-a9b3-430a-8cf5-f4a81d8f9c87","name":"ae21e850-a9b3-430a-8cf5-f4a81d8f9c87","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ae21e850-a9b3-430a-8cf5-f4a81d8f9c87","name":"ae21e850-a9b3-430a-8cf5-f4a81d8f9c87","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
