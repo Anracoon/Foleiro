@@ -27,7 +27,6 @@ function scr_textos(){
 			ds_grid_add_text("Ta la! Muito Obrigado sério, você é meu salvador, nunca vou te esquece-", Spt_Boto, 1, "Boto");
 			ds_grid_add_text("Ta bom, ta bom, você fala demais piá.", Spt_foleiro_andando_esquerda, 0, "Foleiro");
 			ds_grid_add_text("Já volto.", Spt_foleiro_andando_esquerda, 0, "Foleiro");
-			
 		break;
 		
 		case "Curupira":

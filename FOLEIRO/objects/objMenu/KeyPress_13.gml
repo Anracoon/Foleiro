@@ -1,6 +1,6 @@
 if(index == 0)
 {
-	room_goto(historiaSul);
+	room_goto(historiaSul0);
 }
 else if(index == 1)
 {

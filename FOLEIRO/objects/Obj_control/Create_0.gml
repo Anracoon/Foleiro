@@ -22,3 +22,7 @@ global.TemIngr4 = false;
 
 
 global.puzzleIara = false;
+
+//COBRA SUL
+
+global.cobra = false;
