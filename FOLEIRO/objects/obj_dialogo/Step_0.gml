@@ -1,6 +1,5 @@
 if inicializar_dialogo == false{
 	scr_textos();
-	global.curupira_progresso = 0;
 	inicializar_dialogo = true;
 }
 

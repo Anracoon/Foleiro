@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Boto",
+  "%Name":"Obj_Curupira3",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Boto",
+  "name":"Obj_Curupira3",
   "overriddenProperties":[],
   "parent":{
     "name":"personagens",
@@ -31,10 +31,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Spt_Boto",
-    "path":"sprites/Spt_Boto/Spt_Boto.yy",
+    "name":"Spt_Curupira3",
+    "path":"sprites/Spt_Curupira3/Spt_Curupira3.yy",
   },
   "spriteMaskId":null,
   "visible":true,
