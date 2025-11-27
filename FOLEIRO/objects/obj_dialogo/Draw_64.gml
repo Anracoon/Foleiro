@@ -4,10 +4,10 @@ if inicializar_dialogo == true{
 
  var _xx = 0;
  var _yy = _guia - 200;
- var _c = c_gray;
+ var _c = c_black;
  var _sprite = texto_grid[# Infos.Retrato, pagina];
- draw_set_font(fnt_Dialogo);
- draw_set_color(c_black);
+ draw_set_font(fnt_DialogoVdd);
+ draw_set_color(c_white);
  draw_set_halign(fa_left);
  draw_set_valign(fa_top);
 

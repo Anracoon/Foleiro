@@ -43,6 +43,7 @@
   "name":"FOLEIRO",
   "resources":[
     {"id":{"name":"fnt_Dialogo","path":"fonts/fnt_Dialogo/fnt_Dialogo.yy",},},
+    {"id":{"name":"fnt_DialogoVdd","path":"fonts/fnt_DialogoVdd/fnt_DialogoVdd.yy",},},
     {"id":{"name":"ftMenu","path":"fonts/ftMenu/ftMenu.yy",},},
     {"id":{"name":"Obj_Boto1","path":"objects/Obj_Boto1/Obj_Boto1.yy",},},
     {"id":{"name":"Obj_Boto2","path":"objects/Obj_Boto2/Obj_Boto2.yy",},},
@@ -92,6 +93,7 @@
     {"id":{"name":"obj_sul","path":"objects/obj_sul/obj_sul.yy",},},
     {"id":{"name":"Obj_teste","path":"objects/Obj_teste/Obj_teste.yy",},},
     {"id":{"name":"obj_VoFoleiro","path":"objects/obj_VoFoleiro/obj_VoFoleiro.yy",},},
+    {"id":{"name":"obj_VoFoleitoDi","path":"objects/obj_VoFoleitoDi/obj_VoFoleitoDi.yy",},},
     {"id":{"name":"objMenu","path":"objects/objMenu/objMenu.yy",},},
     {"id":{"name":"proxima_sala","path":"objects/proxima_sala/proxima_sala.yy",},},
     {"id":{"name":"puzz_croba","path":"objects/puzz_croba/puzz_croba.yy",},},

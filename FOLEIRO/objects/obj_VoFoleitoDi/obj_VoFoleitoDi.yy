@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Curupira1",
+  "%Name":"obj_VoFoleitoDi",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Curupira1",
+  "name":"obj_VoFoleitoDi",
   "overriddenProperties":[],
   "parent":{
     "name":"personagens",
@@ -32,11 +31,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"Spt_Curupira",
-    "path":"sprites/Spt_Curupira/Spt_Curupira.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

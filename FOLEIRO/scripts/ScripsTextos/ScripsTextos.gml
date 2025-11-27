@@ -134,6 +134,16 @@ function scr_textos(){
 		
 		break;
 		
+		case "Vo Foleiro":
+			ds_grid_add_text("Aaaaaa não aguento mais", Spt_VoFoleiro, 1, "Vo foleiro");
+		break;
+		
+		case "Cobra":
+			ds_grid_add_text("Aaaaaaaaaa", Spt_Cobra, 1, "Cobra");
+		break;
+		
+		
+		
 		case "Lara":
 			
 		break;

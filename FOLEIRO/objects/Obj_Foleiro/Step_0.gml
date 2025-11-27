@@ -62,6 +62,7 @@ velv = 0
 
 y+= velv
 
+//---------------------------
 
 
 //---------------IR PARA O MAPA---------------------------
@@ -83,12 +84,12 @@ if !global.Dialogo {
         
         var d = point_distance(x, y, _npc.x, _npc.y);
 
-        if (d <= 10) {
+        if (d <= 69) {
             
             global.Dialogo = true;
 
             
-            var _dialogo = instance_create_layer(_npc.x, _npc.y - 16, "dialogo", obj_dialogo);
+            var _dialogo = instance_create_layer(_npc.x, _npc.y - 10, "dialogo", obj_dialogo);
 
             
             _dialogo.npc_nome = _npc.nome;

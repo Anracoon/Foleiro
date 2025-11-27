@@ -3,7 +3,7 @@ if inicializar_dialogo == false{
 	inicializar_dialogo = true;
 }
 
-if mouse_check_button_pressed(mb_left){
+if keyboard_check_pressed(vk_enter){
 	if pagina < ds_grid_height(texto_grid) - 1{
 		pagina++;
 	}
