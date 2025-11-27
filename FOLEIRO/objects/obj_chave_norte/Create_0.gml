@@ -1,0 +1,1 @@
+obj_chave_norte.visible = 0;

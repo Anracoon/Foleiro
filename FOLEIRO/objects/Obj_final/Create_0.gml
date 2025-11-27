@@ -1,0 +1,1 @@
+Obj_final.visible = 0;

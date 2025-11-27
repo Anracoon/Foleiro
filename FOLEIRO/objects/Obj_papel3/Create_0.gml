@@ -1,0 +1,1 @@
+Obj_papel3.visible = 100;

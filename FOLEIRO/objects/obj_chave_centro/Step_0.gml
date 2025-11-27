@@ -1,0 +1,5 @@
+if(global.puzzleCobra == true)
+{
+	obj_chave_centro.visible = 100; 
+	
+}

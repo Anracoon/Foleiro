@@ -26,3 +26,18 @@ global.puzzleIara = false;
 //COBRA SUL
 
 global.cobra = false;
+
+global.puzzleCobra = false;
+
+//VERIFICA SE PEGOU OS PAPEIS
+global.papel1 = false;
+global.papel2 = false;
+global.papel3 = false;
+
+//Verifica se viu o dialogo do curupira 2 e 4
+global.dialCu2 = false;
+
+global.dialCu4 = false;
+
+//Verifica puzzle Boto
+global.boto2 = false;
