@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"Spt_Curupira",
   "bboxMode":1,
-  "bbox_bottom":63,
+  "bbox_bottom":342,
   "bbox_left":0,
-  "bbox_right":63,
+  "bbox_right":174,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"2da4cd04-dc88-4d93-86dd-233c48ab7630","name":"2da4cd04-dc88-4d93-86dd-233c48ab7630","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c27c3e1b-2cac-4385-95ae-76a245969b7a","name":"c27c3e1b-2cac-4385-95ae-76a245969b7a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":343,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"85a14dfe-699f-486d-aae7-f6f5536b8ff1","blendMode":0,"displayName":"default","isLocked":false,"name":"85a14dfe-699f-486d-aae7-f6f5536b8ff1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"de102943-1328-4ef9-8af7-7820ceb255be","blendMode":0,"displayName":"default","isLocked":false,"name":"de102943-1328-4ef9-8af7-7820ceb255be","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"Spt_Curupira",
   "nineSlice":{
@@ -90,14 +90,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2da4cd04-dc88-4d93-86dd-233c48ab7630","path":"sprites/Spt_Curupira/Spt_Curupira.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d0468350-7aea-43f2-b060-9bcb3a63b342","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c27c3e1b-2cac-4385-95ae-76a245969b7a","path":"sprites/Spt_Curupira/Spt_Curupira.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"39c4acf6-69ce-4188-bcbe-5366968f02f2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":32,
-    "yorigin":64,
+    "xorigin":87,
+    "yorigin":343,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
@@ -107,5 +107,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":175,
 }

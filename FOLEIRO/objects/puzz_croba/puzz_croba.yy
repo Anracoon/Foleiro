@@ -34,5 +34,5 @@
     "path":"sprites/spt_mapas/spt_mapas.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
