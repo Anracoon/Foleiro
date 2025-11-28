@@ -30,7 +30,19 @@ function scr_textos(){
 		break;
 		
 		case "Boto 2":
-			ds_grid_add_text("A", Spt_Boto2, 1, "Boto2");
+			ds_grid_add_text("Você voltou! Finalmente, achei que tinha desistido de mim.", Spt_Boto2, 1, "Boto2");
+			ds_grid_add_text("Mas eu nem demorei, você tem que ter mais paciência.", Spt_FoleiroFalando, 0, "Foleiro");
+			ds_grid_add_text("E parar de enganar as moças da cidade.", Spt_FoleiroFalando, 0, "Foleiro");
+			ds_grid_add_text("A parte da paciência tudo bem, mas a outra eu não prometo nada.", Spt_Boto2, 1, "Boto2");
+			ds_grid_add_text("É sério, isso não é legal.", Spt_FoleiroFalando, 0, "Foleiro");
+			ds_grid_add_text("Mas eu tenho que ir, vim encontrar um amigo.", Spt_FoleiroFalando, 0, "Foleiro");
+			ds_grid_add_text("O curupira?", Spt_Boto2, 1, "Boto2");
+			ds_grid_add_text("Sim, como você sabe?", Spt_FoleiroFalando, 0, "Foleiro");
+			ds_grid_add_text("Ele passou aqui e pediu pra eu avisar pra você que ele está um pouco mais ali pra frente.", Spt_Boto2, 1, "Boto2");
+			ds_grid_add_text("Ata, Obrigado!", Spt_FoleiroFalando, 0, "Foleiro");
+			ds_grid_add_text("Não é nada.", Spt_Boto2, 1, "Boto2");
+			ds_grid_add_text("Agora se me da licença, eu tenho uma festa para ir.", Spt_Boto2, 1, "Boto2");
+			
 		break;
 		
 		case "Curupira 1":
@@ -83,19 +95,14 @@ function scr_textos(){
 			ds_grid_add_text("Acho que vou precisar de mais uma ajuda sua.", Spt_Curupira2, 1, "Curupira");
 			ds_grid_add_text("Ok, até mais.", Spt_FoleiroFalando, 0, "Foleiro");
 			ds_grid_add_text("Até depois.", Spt_Curupira2, 1, "Curupira");
-			ds_grid_add_text("Mas fica esperto, não dê moral pro Romãozinho.", Spt_Curupira2, 1, "Curupira");
-			ds_grid_add_text("Ele não é confiável.", Spt_Curupira2, 1, "Curupira");
+			
 		
 		break;
 		
 		case "Curupira 3":
 			ds_grid_add_text("Curupira?", Spt_FoleiroFalando, 0, "Foleiro");
 			ds_grid_add_text("Opa, e aí! Tudo bem?", Spt_Curupira3, 1, "Curupira");
-			ds_grid_add_text("Tudo sim. Só tive uns imprevistos com o Romãozinho, ele me prendeu.", Spt_FoleiroFalando, 0, "Foleiro");
-			ds_grid_add_text("Bem que você me falou pra ficar esperto.", Spt_FoleiroFalando, 0, "Foleiro");
-			ds_grid_add_text("Ah, mas aquele moleque vai se ver comigo!", Spt_Curupira3, 1, "Curupira");
-			ds_grid_add_text("Onde já se viu prender amigo meu?", Spt_Curupira3, 1, "Curupira");
-			ds_grid_add_text("Mas o que importa é que deu tudo certo.", Spt_FoleiroFalando, 0, "Foleiro");
+			ds_grid_add_text("Tudo sim.", Spt_FoleiroFalando, 0, "Foleiro");
 			ds_grid_add_text("Está gostando da viagem?", Spt_Curupira3, 1, "Curupira");
 			ds_grid_add_text("Muito!", Spt_FoleiroFalando, 0, "Foleiro");
 			ds_grid_add_text("Que bom.", Spt_Curupira3, 1, "Curupira");
@@ -135,14 +142,27 @@ function scr_textos(){
 		break;
 		
 		case "Vo Foleiro":
-			ds_grid_add_text("Aaaaaa não aguento mais", Spt_VoFoleiro, 1, "Vo foleiro");
+			ds_grid_add_text("Agora vc sabe uma lenda, volte aqui quando conhecer todas as 10.", Spt_VoFoleiro, 1, "Vo foleiro");
+			ds_grid_add_text("Fala primeiro com a serpente que ela fica aqui pertinho.", Spt_VoFoleiro, 1, "Vo foleiro");
+			ds_grid_add_text("Agora vai la pia.", Spt_VoFoleiro, 1, "Vo foleiro");
+			
+			
 		break;
 		
 		case "Cobra":
-			ds_grid_add_text("Aaaaaaaaaa", Spt_Cobra, 1, "Cobra");
+			ds_grid_add_text("Ah ola, seu nome é foleiro ne? Conheço o seu avo.", Spt_Cobra, 1, "Cobra");
+			ds_grid_add_text("Oi! Sim, ele me falou de você dona serpente.", Spt_FoleiroFalando, 0, "Foleiro");
+			ds_grid_add_text("Desculpa pedir mas, você poderia me ajudar a desenosar minha calda?", Spt_Cobra, 1, "Cobra");
+			ds_grid_add_text("Claro! Pode deixar.", Spt_FoleiroFalando, 0, "Foleiro");
+			ds_grid_add_text("Em troca te dou a chave para ir para proxima região, obrigado.", Spt_Cobra, 1, "Cobra");
 		break;
 		
-		
+		case "Cobra 2":
+			ds_grid_add_text("Você voltou!", Spt_Cobra, 1, "Cobra");
+			ds_grid_add_text("Obrigado pela ajuda, me sinto muito melhor!", Spt_Cobra, 1, "Cobra");
+			ds_grid_add_text("A chave esta no portão ali em baixo.", Spt_Cobra, 1, "Cobra");
+			
+		break
 		
 		case "Lara":
 			

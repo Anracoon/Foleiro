@@ -33,7 +33,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"Spt_Curupira4",
     "path":"sprites/Spt_Curupira4/Spt_Curupira4.yy",

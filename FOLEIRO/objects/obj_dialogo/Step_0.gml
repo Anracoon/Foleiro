@@ -9,6 +9,6 @@ if keyboard_check_pressed(vk_enter){
 	}
 	else{
 		global.Dialogo = false;
-		instance_destroy();
+		instance_destroy(obj_dialogo);
 	}
 }
