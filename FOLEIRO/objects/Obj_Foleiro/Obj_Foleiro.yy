@@ -11,7 +11,6 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Boto2","path":"objects/Obj_Boto2/Obj_Boto2.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Curupira2","path":"objects/Obj_Curupira2/Obj_Curupira2.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Curupira3","path":"objects/Obj_Curupira3/Obj_Curupira3.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_Curupira4","path":"objects/Obj_Curupira4/Obj_Curupira4.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Obj_Foleiro",

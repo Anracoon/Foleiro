@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":7,
   "parent":{
-    "name":"foleiro",
-    "path":"folders/Sprites/foleiro.yy",
+    "name":"icons",
+    "path":"folders/Sprites/icons.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

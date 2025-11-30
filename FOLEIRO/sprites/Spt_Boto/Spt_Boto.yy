@@ -23,7 +23,7 @@
   ],
   "name":"Spt_Boto",
   "nineSlice":null,
-  "origin":7,
+  "origin":9,
   "parent":{
     "name":"Personagens",
     "path":"folders/Sprites/Personagens.yy",

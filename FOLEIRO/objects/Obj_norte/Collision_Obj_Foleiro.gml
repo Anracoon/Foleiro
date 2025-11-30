@@ -1,3 +1,3 @@
 if (global.temChNorteg == 1) {
-    room_goto(SalaNorte)
+    room_goto(historia_boto)
 }
