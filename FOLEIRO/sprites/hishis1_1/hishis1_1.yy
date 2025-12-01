@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"hishis1_1",
   "bboxMode":0,
-  "bbox_bottom":672,
+  "bbox_bottom":565,
   "bbox_left":734,
   "bbox_right":1138,
   "bbox_top":62,

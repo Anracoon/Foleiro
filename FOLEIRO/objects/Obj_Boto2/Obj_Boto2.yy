@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spt_Boto",
-    "path":"sprites/Spt_Boto/Spt_Boto.yy",
+    "name":"Spt_Boto_1",
+    "path":"sprites/Spt_Boto_1/Spt_Boto_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

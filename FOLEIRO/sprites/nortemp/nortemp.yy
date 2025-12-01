@@ -12,14 +12,14 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"746d7236-90fe-4556-9e7c-64ea795d8601","name":"746d7236-90fe-4556-9e7c-64ea795d8601","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fbcf2c40-165f-4def-9722-10fa23d06172","name":"fbcf2c40-165f-4def-9722-10fa23d06172","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":1336,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"f1ef2654-bb36-4969-8316-f5672fb46999","blendMode":0,"displayName":"default","isLocked":false,"name":"f1ef2654-bb36-4969-8316-f5672fb46999","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"3d06f2dc-6469-4e4c-a955-136c2f5b5305","blendMode":0,"displayName":"default","isLocked":false,"name":"3d06f2dc-6469-4e4c-a955-136c2f5b5305","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"nortemp",
   "nineSlice":null,
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"746d7236-90fe-4556-9e7c-64ea795d8601","path":"sprites/nortemp/nortemp.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"964c17e7-068b-4c98-bb0a-59730edc8152","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fbcf2c40-165f-4def-9722-10fa23d06172","path":"sprites/nortemp/nortemp.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c6d8aacd-eda2-47dd-abfd-6b3167d7c496","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

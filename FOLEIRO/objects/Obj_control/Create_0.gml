@@ -37,7 +37,7 @@ global.papel3 = false;
 //Verifica se viu o dialogo do curupira 2 e 4
 global.dialCu2 = false;
 
-global.dialCu4 = false;
+global.dialCu3 = false;
 
 //Verifica puzzle Boto
 global.boto2 = false;

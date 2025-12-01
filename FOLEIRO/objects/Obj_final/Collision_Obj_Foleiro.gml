@@ -1,4 +1,5 @@
-if(global.boto2 == true && global.dialCu4 ==  true)
+if(global.boto2 == true && global.dialCu3 ==  true)
 {
-room_goto(final1);
+	Obj_final.visible = 100;
+    room_goto(final1);
 }

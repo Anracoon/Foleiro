@@ -26,7 +26,7 @@ function scr_textos(){
 			ds_grid_add_text("Já volto.", Spt_FoleiroFalando, 0, "Foleiro");
 		break;
 		
-		case "Boto 2":
+		case "Boto2":
 			ds_grid_add_text("Você voltou! Finalmente, achei que tinha desistido de mim.", spt_botinho, 1, "Boto2");
 			ds_grid_add_text("Mas eu nem demorei, você tem que ter mais paciência.", Spt_FoleiroFalando, 0, "Foleiro");
 			ds_grid_add_text("E parar de enganar as moças da cidade.", Spt_FoleiroFalando, 0, "Foleiro");
@@ -113,7 +113,7 @@ function scr_textos(){
 		
 		
 		case "Vo Foleiro":
-			ds_grid_add_text("Agora vc sabe uma lenda, volte aqui quando conhecer todas as 10.", spt_vozinho, 1, "Vo foleiro");
+			ds_grid_add_text("Agora vc sabe uma lenda, volte aqui quando conhecer as das outras regiões.", spt_vozinho, 1, "Vo foleiro");
 			ds_grid_add_text("Fala primeiro com a serpente que ela fica aqui pertinho.", spt_vozinho, 1, "Vo foleiro");
 			ds_grid_add_text("Agora vai la pia.", spt_vozinho, 1, "Vo foleiro");
 			
@@ -125,7 +125,7 @@ function scr_textos(){
 			ds_grid_add_text("Oi! Sim, ele me falou de você dona serpente.", Spt_FoleiroFalando, 0, "Foleiro");
 			ds_grid_add_text("Desculpa pedir mas, você poderia me ajudar a desenosar minha calda?", Spt_Cobra, 1, "Cobra");
 			ds_grid_add_text("Claro! Pode deixar.", Spt_FoleiroFalando, 0, "Foleiro");
-			ds_grid_add_text("Em troca te dou a chave para ir para proxima região, obrigado.", Spt_Cobra, 1, "Cobra");
+			ds_grid_add_text("Volte aqui quando terminar. Em troca te dou a chave para ir para proxima região.", Spt_Cobra, 1, "Cobra");
 		break;
 		
 		case "Cobra 2":
